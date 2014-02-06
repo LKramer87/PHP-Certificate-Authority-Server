@@ -1,1 +1,2 @@
-Possibly sort out the framework for RADIUS Authentication, but not worried about it at the moment
+Remove: Possibly sort out the framework for RADIUS Authentication, but not worried about it at the moment
+ADD: CRL URI in CA creation process
